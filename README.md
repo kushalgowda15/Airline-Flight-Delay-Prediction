@@ -236,7 +236,10 @@ Run the notebooks in order:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+> <img width="451" height="254" alt="image" src="https://github.com/user-attachments/assets/17915e90-ec85-4898-bf26-ba7d8d75a150" />
+<img width="450" height="251" alt="image" src="https://github.com/user-attachments/assets/f6027dc5-4469-416f-b119-e05b7975a546" />
+
+
 
 Example:
 
@@ -258,4 +261,3 @@ This project is intended for educational and research purposes.
 
 GitHub: https://github.com/kushalgowda15
 
-LinkedIn: *(Add your LinkedIn profile here)*
